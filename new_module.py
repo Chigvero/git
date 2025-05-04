@@ -1,2 +1,2 @@
-second_function(x):
+def second_function(x):
   return x+1
